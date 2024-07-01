@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit';
 
 // Initial state of the theme slice
 const initialState = {
-    theme: 'dracula', // default theme
+    theme: 'github', // default theme
 };
 
 const themeSlice = createSlice({
